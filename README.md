@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+  for CONTACT me
 <!---
-Chitransh223/Chitransh223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Chitransh223/Chitransh223 is a ✨ special ✨ repository b
+first GITHUB repository  
